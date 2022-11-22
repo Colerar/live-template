@@ -1,0 +1,32 @@
+<template name="let" value="const auto $name$ = $init$;" description="Alias for const auto" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="init" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+        <option name="OC_DECLARATION_CPP" value="true" />
+        <option name="OC_STATEMENT_CPP" value="true" />
+    </context>
+</template>
+<template name="letmut" value="auto $name$ = $init$;" description="Alias for auto" toReformat="false" toShortenFQNames="true">
+<variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+<variable name="init" expression="" defaultValue="" alwaysStopAt="true" />
+<context>
+    <option name="OC_DECLARATION_CPP" value="true" />
+    <option name="OC_STATEMENT_CPP" value="true" />
+</context>
+</template>
+<template name="val" value="const auto $name$ = $init$;" description="Alias for const auto" toReformat="false" toShortenFQNames="true">
+<variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+<variable name="init" expression="" defaultValue="" alwaysStopAt="true" />
+<context>
+    <option name="OC_DECLARATION_CPP" value="true" />
+    <option name="OC_STATEMENT_CPP" value="true" />
+</context>
+</template>
+<template name="var" value="auto $name$ = $init$;" description="Alias for auto" toReformat="false" toShortenFQNames="true">
+<variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+<variable name="init" expression="" defaultValue="" alwaysStopAt="true" />
+<context>
+    <option name="OC_DECLARATION_CPP" value="true" />
+    <option name="OC_STATEMENT_CPP" value="true" />
+</context>
+</template>

@@ -1,5 +1,12 @@
 # C++ Templates
 
+## Local Variable
+
+Aliases for local variable declaration.
+
+- `var`, `letmut` for `auto <var> = <value>;`
+- `val`, `let` for `const auto <var> = <value>;`
+
 ## FundamentalTypes
 
 Aliases for fundamental types, including integer types and floating-point types.
