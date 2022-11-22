@@ -1,0 +1,40 @@
+<template name="i8f" value="int_fast8_t" description="int_fast8_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i16f" value="int_fast16_t" description="int_fast16_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i32f" value="int_fast32_t" description="int_fast32_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i64f" value="int_fast64_t" description="int_fast64_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u8f" value="uint_fast8_t" description="uint_fast8_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u16f" value="uint_fast16_t" description="uint_fast16_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u32f" value="uint_fast32_t" description="uint_fast32_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u64f" value="uint_fast64_t" description="uint_fast64_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>

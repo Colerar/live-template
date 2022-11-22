@@ -1,0 +1,65 @@
+<template name="i8" value="int8_t" description="int8_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i16" value="int16_t" description="int16_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i32" value="int32_t" description="int32_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i64" value="int64_t" description="int64_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u8" value="uint8_t" description="uint8_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u16" value="uint16_t" description="uint16_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u32" value="uint32_t" description="uint32_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u64" value="uint64_t" description="uint64_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="f32" value="float" description="Alias for float" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="f64" value="double" description="Alias for double" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="f80" value="long double" description="Alias for long double" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="f96" value="long double" description="Alias for long double" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="f128" value="long double" description="Alias for long double" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>

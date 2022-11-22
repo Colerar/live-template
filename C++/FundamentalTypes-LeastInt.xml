@@ -1,0 +1,40 @@
+<template name="i8m" value="int_least8_t" description="int_least8_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i16m" value="int_least16_t" description="int_least16_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i32m" value="int_least32_t" description="int_least32_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="i64m" value="int_least64_t" description="int_least64_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u8m" value="uint_least8_t" description="uint_least8_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u16m" value="uint_least16_t" description="uint_least16_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u32m" value="uint_least32_t" description="uint_least32_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
+<template name="u64m" value="uint_least64_t" description="uint_least64_t in cstdint" toReformat="false" toShortenFQNames="true">
+  <context>
+    <option name="cpp" value="true" />
+  </context>
+</template>
