@@ -1,0 +1,7 @@
+<template name="hguard" value="#ifndef $HEADER_GUARD$&#10;#define $HEADER_GUARD$&#10;#endif // $HEADER_GUARD$" description="Header Guard" toReformat="false" toShortenFQNames="true">
+    <variable name="HEADER_GUARD" expression="groovyScript(&quot;_1.toUpperCase() + '_' + new java.text.SimpleDateFormat('yyyyMMdd').format(new Date()) + '_' + (java.util.UUID.randomUUID() as String).toUpperCase().replace('-', '') + '_H'&quot;, snakeCase(fileNameWithoutExtension()))" defaultValue="" alwaysStopAt="false" />
+    <context>
+        <option name="c" value="true" />
+        <option name="cpp" value="true" />
+    </context>
+</template>
